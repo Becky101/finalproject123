@@ -1,0 +1,43 @@
+<style>
+body {
+				font-family: Helvetica, Arial, sans-serif;
+			}
+
+			#h1_1 {
+				font-size: 24px;
+				margin: 0;
+			}
+
+			#p_1 {
+				font-size: 14px;
+				margin: 10px 0 0 0;
+			}
+
+			path {
+				stroke: white;
+				stroke-width: 1px;
+
+			}
+
+
+
+			.legendLinear text {
+			    font-size: 9px;
+			}
+
+ .tooltip {
+              position: absolute;
+              z-index: 10;
+            }
+
+            .tooltip p {
+              background-color: white;
+              color:steelblue;
+              border-radius: 6px;
+              box-shadow: 2px 2px 2px #d9eee6;
+             
+              border: gray 1px solid;
+              padding: 2px;
+              max-width: 180px;
+          }
+      </style>
